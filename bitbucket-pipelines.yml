@@ -15,7 +15,6 @@ pipelines:
              - git merge origin/main
              - git rm -f bitbucket-pipelines.yml
              - git commit -m “不要なファイルの削除”
-             - apt update
              - apt install -y gcc python3-dev 
              - apt install -y jupyter-core jupyter-nbconvert
              - pip install --upgrade pip
