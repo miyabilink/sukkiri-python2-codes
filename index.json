@@ -1,0 +1,1993 @@
+[
+  {
+    "id": "chap00",
+    "label": "第0章 ようこそPythonの世界へ",
+    "children":
+    [
+      {
+        "id": "code00-01",
+        "label_header": "コード0-1",
+        "label": "はじめてのPythonプログラム",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code00-02",
+        "label_header": "コード0-2",
+        "label": "浅木さんが書き換えたプログラム",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code00-03",
+        "label_header": "コード0-3",
+        "label": "松田くんが書き換えたプログラム（エラー）",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": true,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code00-04",
+        "label_header": "コード0-4",
+        "label": "複数の文字列を表示する",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code00-05",
+        "label_header": "コード0-5",
+        "label": "コメントを入れたプログラム",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      }
+    ]
+  },
+  {
+    "id": "chap01",
+    "label": "第1章 変数とデータ型",
+    "children":
+    [
+      {
+        "id": "code01-01",
+        "label_header": "コード1-1",
+        "label": "print関数で数値を書く",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code01-02",
+        "label_header": "コード1-2",
+        "label": "加算と減算",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code01-03",
+        "label_header": "コード1-3",
+        "label": "文字列の演算",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code01-04",
+        "label_header": "コード1-4",
+        "label": "文字列の演算の応用",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code01-05",
+        "label_header": "コード1-5",
+        "label": "文字列の途中で改行する",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code01-06",
+        "label_header": "コード1-6",
+        "label": "ヒアドキュメントの利用",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code01-07",
+        "label_header": "コード1-7",
+        "label": "さらに改行を追加すると…",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code01-08",
+        "label_header": "コード1-8",
+        "label": "前後の改行を取り除く",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code01-09",
+        "label_header": "コード1-9",
+        "label": "同じ式が何度も登場してしまう",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code01-10",
+        "label_header": "コード1-10",
+        "label": "変数の利用",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code01-11",
+        "label_header": "コード1-11",
+        "label": "変数を利用してコード1-9を改善",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code01-12",
+        "label_header": "コード1-12",
+        "label": "変数の上書き",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code01-13",
+        "label_header": "コード1-13",
+        "label": "複数の変数をまとめて定義",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code01-14",
+        "label_header": "コード1-14",
+        "label": "浅木さんの年齢を予測する",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code01-15",
+        "label_header": "コード1-15",
+        "label": "浅木さんの年齢を予測する（修正版）",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code01-16",
+        "label_header": "コード1-16",
+        "label": "変数の現在の値に加減乗除する",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code01-17",
+        "label_header": "コード1-17",
+        "label": "キーボードから値を入力する",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code01-18",
+        "label_header": "コード1-18",
+        "label": "割り勘計算プログラム",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": null
+      },
+      {
+        "id": "code01-19",
+        "label_header": "コード1-19",
+        "label": "変数には異なるデータ型の値を代入できる",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code01-20",
+        "label_header": "コード1-20",
+        "label": "格納されている値のデータ型を調べる",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code01-21",
+        "label_header": "コード1-21",
+        "label": "割り勘計算プログラムの問題点",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code01-22",
+        "label_header": "コード1-22",
+        "label": "データ型の変換",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code01-23",
+        "label_header": "コード1-23",
+        "label": "割り勘計算プログラムの修正（未完成）",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": null
+      },
+      {
+        "id": "code01-24",
+        "label_header": "コード1-24",
+        "label": "文字列に数値を埋め込む",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code01-25",
+        "label_header": "コード1-25",
+        "label": "format関数で文字列に数値を埋め込む",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code01-26",
+        "label_header": "コード1-26",
+        "label": "割り勘計算プログラム（完成版）",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code01-27",
+        "label_header": "コード1-27",
+        "label": "f-stringで文字列に数値を埋め込む",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans01-03",
+        "label_header": "",
+        "label": "練習1-3の解答",
+        "sourceFiles": [
+          "ex01.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      }
+    ]
+  },
+  {
+    "id": "chap02",
+    "label": "第2章 コレクション",
+    "children":
+    [
+      {
+        "id": "code02-01",
+        "label_header": "コード2-1",
+        "label": "点数管理プログラム",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code02-02",
+        "label_header": "コード2-2",
+        "label": "リストを作成して参照",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code02-03",
+        "label_header": "コード2-3",
+        "label": "リストの要素を参照",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code02-04",
+        "label_header": "コード2-4",
+        "label": "リストの要素を参照（エラー）",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": null
+      },
+      {
+        "id": "code02-05",
+        "label_header": "コード2-5",
+        "label": "試験の合計と平均を求める",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code02-06",
+        "label_header": "コード2-6",
+        "label": "sum関数を用いて合計を求める",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code02-07",
+        "label_header": "コード2-7",
+        "label": "リストの合計値と平均値を求める",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code02-08",
+        "label_header": "コード2-8",
+        "label": "リストに要素を追加",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code02-09",
+        "label_header": "コード2-9",
+        "label": "リストから要素を削除",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code02-10",
+        "label_header": "コード2-10",
+        "label": "リストの要素を変更",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code02-11",
+        "label_header": "コード2-11",
+        "label": "スライスによる範囲指定",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code02-12",
+        "label_header": "コード2-12",
+        "label": "負の数による指定",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code02-13",
+        "label_header": "コード2-13",
+        "label": "ディクショナリの作成",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code02-14",
+        "label_header": "コード2-14",
+        "label": "ディクショナリの要素を参照",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code02-15",
+        "label_header": "コード2-15",
+        "label": "ディクショナリの要素の追加と変更",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code02-16",
+        "label_header": "コード2-16",
+        "label": "ディクショナリの要素を削除",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code02-17",
+        "label_header": "コード2-17",
+        "label": "タプルの利用",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code02-18",
+        "label_header": "コード2-18",
+        "label": "タプルの要素を変更（エラー）",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": null
+      },
+      {
+        "id": "code02-19",
+        "label_header": "コード2-19",
+        "label": "要素数が1つのリストとディクショナリ",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code02-20",
+        "label_header": "コード2-20",
+        "label": "要素数1のタプル（のつもり）",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code02-21",
+        "label_header": "コード2-21",
+        "label": "要素数1のタプル",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code02-22",
+        "label_header": "コード2-22",
+        "label": "セットの利用",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code02-23",
+        "label_header": "コード2-23",
+        "label": "コンテナの相互変換",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code02-24",
+        "label_header": "コード2-24",
+        "label": "ディクショナリの中にディクショナリをネスト",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code02-25",
+        "label_header": "コード2-25",
+        "label": "ディクショナリの中にセットをネスト",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code02-26",
+        "label_header": "コード2-26",
+        "label": "2次元リストの例",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code02-27",
+        "label_header": "コード2-27",
+        "label": "2人の共通点を探す",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code02-28",
+        "label_header": "コード2-28",
+        "label": "4つの集合演算",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans02-02",
+        "label_header": "",
+        "label": "練習2-2の解答",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans02-03",
+        "label_header": "",
+        "label": "練習2-3の解答",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      }
+    ]
+  },
+  {
+    "id": "chap03",
+    "label": "第3章 条件分岐",
+    "children":
+    [
+      {
+        "id": "code03-01",
+        "label_header": "コード3-1",
+        "label": "いつも同じことを言うチャットボット",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code03-02",
+        "label_header": "コード3-2",
+        "label": "答えが分岐するチャットボット",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code03-03",
+        "label_header": "コード3-3",
+        "label": "常に追試を受けることになる判定プログラム",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code03-04",
+        "label_header": "コード3-4",
+        "label": "どんなカレーでも絶賛するチャットボット",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code03-05",
+        "label_header": "コード3-5",
+        "label": "100点があるかどうかを調べる",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code03-06",
+        "label_header": "コード3-6",
+        "label": "ディクショナリのキーをチェックする",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code03-07",
+        "label_header": "コード3-7",
+        "label": "条件式の評価結果を確認する",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code03-08",
+        "label_header": "コード3-8",
+        "label": "elseブロックのない分岐",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code03-09",
+        "label_header": "コード3-9",
+        "label": "多分岐するif文",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code03-10",
+        "label_header": "コード3-10",
+        "label": "晩ご飯をレコメンドするチャットボット",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quiz03-04",
+        "label_header": "",
+        "label": "練習3-4",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans03-03",
+        "label_header": "",
+        "label": "練習3-3の解答",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      }
+    ]
+  },
+  {
+    "id": "chap04",
+    "label": "第4章 繰り返し",
+    "children":
+    [
+      {
+        "id": "code04-01",
+        "label_header": "コード4-1",
+        "label": "ひつじを数えて眠る",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code04-02",
+        "label_header": "コード4-2",
+        "label": "ひつじを数えるのを3回繰り返す",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code04-03",
+        "label_header": "コード4-3",
+        "label": "無限ループ",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": "このコードを実行すると無限ループが発生します。実行結果画面の右上に表示される中断ボタンをクリックするか、しばらく待つと自動的に停止します。"
+      },
+      {
+        "id": "code04-04",
+        "label_header": "コード4-4",
+        "label": "眠るまでひつじを数えるのを繰り返す",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code04-05",
+        "label_header": "コード4-5",
+        "label": "繰り返しを使って得点リストを作成する",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code04-06",
+        "label_header": "コード4-6",
+        "label": "リストの全要素を繰り返し参照する",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code04-07",
+        "label_header": "コード4-7",
+        "label": "for文でリストの全要素を参照する",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code04-08",
+        "label_header": "コード4-8",
+        "label": "for文で決まった回数を繰り返す",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code04-09",
+        "label_header": "コード4-9",
+        "label": "データのまとまりからサンプルを抽出する",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code04-10",
+        "label_header": "コード4-10",
+        "label": "目標数に達したら繰り返しを終了する",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code04-11",
+        "label_header": "コード4-11",
+        "label": "不要な回のループをスキップする",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quiz04-01",
+        "label_header": "",
+        "label": "練習4-1",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quiz04-03",
+        "label_header": "",
+        "label": "練習4-3",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans04-02",
+        "label_header": "",
+        "label": "練習4-2の解答",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans04-03",
+        "label_header": "",
+        "label": "練習4-3の解答",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans04-04",
+        "label_header": "",
+        "label": "練習4-4の解答",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans04-05",
+        "label_header": "",
+        "label": "練習4-5の解答",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans04-06",
+        "label_header": "",
+        "label": "練習4-6の解答",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      }
+    ]
+  },
+  {
+    "id": "chap05",
+    "label": "第5章 関数",
+    "children":
+    [
+      {
+        "id": "code05-01",
+        "label_header": "コード5-1",
+        "label": "見通しの悪いプログラム",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code05-02",
+        "label_header": "コード5-2",
+        "label": "見通しがよくなったプログラム",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": null
+      },
+      {
+        "id": "code05-03",
+        "label_header": "コード5-3",
+        "label": "hello関数の定義",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code05-04",
+        "label_header": "コード5-4",
+        "label": "hello関数の定義と呼び出し",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code05-05",
+        "label_header": "コード5-5",
+        "label": "input_scores関数内の変数nameに代入するつもり",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code05-06",
+        "label_header": "コード5-6",
+        "label": "hello関数に引数を受け渡す",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code05-07",
+        "label_header": "コード5-9",
+        "label": "複数の引数を受け渡す",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code05-08",
+        "label_header": "コード5-8",
+        "label": "リストの平均を求めるcalc_average関数",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code05-09",
+        "label_header": "コード5-9",
+        "label": "input_scores関数とcalc_average関数",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code05-10",
+        "label_header": "コード5-10",
+        "label": "input_scores関数とcalc_average関数を呼び出す",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": null
+      },
+      {
+        "id": "code05-11",
+        "label_header": "コード5-11",
+        "label": "足し算の結果を返すplus関数",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code05-12",
+        "label_header": "コード5-12",
+        "label": "関数を利用して試験結果を計算する",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code05-13",
+        "label_header": "コード5-13",
+        "label": "2つの戻り値を返す？",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code05-14",
+        "label_header": "コード5-14",
+        "label": "戻り値のタプルをアンパック代入",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code05-15",
+        "label_header": "コード5-15",
+        "label": "松田くんの食生活を表示する",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code05-16",
+        "label_header": "コード5-16",
+        "label": "松田くんの言うまでもない食生活を出力する",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code05-17",
+        "label_header": "コード5-17",
+        "label": "夜がカレーじゃない日のeat関数の呼び出し",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code05-18",
+        "label_header": "コード5-18",
+        "label": "夜がカレーじゃない日のeat関数の呼び出し（キーワード指定）",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code05-19",
+        "label_header": "コード5-19",
+        "label": "おやつも食べた日のeat関数の呼び出し",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code05-20",
+        "label_header": "コード5-20",
+        "label": "おやつも出力できるeat関数の呼び出し（（可変長引数を利用）",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code05-21",
+        "label_header": "コード5-31",
+        "label": "引数を使わないで変数nameの値を受け渡している",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code05-22",
+        "label_header": "コード5-22",
+        "label": "関数の中からグローバル変数に代入できる？",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code05-23",
+        "label_header": "コード5-23",
+        "label": "global文を用いてグローバル変数に代入する",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quiz05-03",
+        "label_header": "",
+        "label": "練習5-3",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quiz05-04",
+        "label_header": "",
+        "label": "練習5-4",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quiz05-05",
+        "label_header": "",
+        "label": "練習5-5",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans05-02",
+        "label_header": "",
+        "label": "練習5-2の解答",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans05-05",
+        "label_header": "",
+        "label": "練習5-5の解答",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      }
+    ]
+  },
+  {
+    "id": "chap06",
+    "label": "第6章 オブジェクト",
+    "children":
+    [
+      {
+        "id": "code06-01",
+        "label_header": "コード6-1",
+        "label": "append関数やformat関数の呼び出し",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code06-02",
+        "label_header": "コード6-2",
+        "label": "すべての値がデータと関数を持つ",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code06-03",
+        "label_header": "コード6-3",
+        "label": "文字列のメソッドを活用した血液型占い",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code06-04",
+        "label_header": "コード6-4",
+        "label": "リテラルやクラス名関数を用いたオブジェクトの生成",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code06-05",
+        "label_header": "コード6-5",
+        "label": "勇者を表すクラスの定義と利用",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code06-06",
+        "label_header": "コード6-6",
+        "label": "オブジェクトのidentityの確認",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code06-07",
+        "label_header": "コード6-7",
+        "label": "リストオブジェクトのコピーによる不可解な動作",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code06-08",
+        "label_header": "コード6-8",
+        "label": "関数に変数の内容を書き換えられてしまう",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code06-09",
+        "label_header": "コード6-9",
+        "label": "防御的コピーを用いて悪影響を防ぐ",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code06-10",
+        "label_header": "コード6-10",
+        "label": "文字列を引き渡しても悪影響が起きない",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code06-11",
+        "label_header": "コード6-11",
+        "label": "identity値の変化の比較",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quiz06-01",
+        "label_header": "",
+        "label": "練習6-1",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quiz06-02",
+        "label_header": "",
+        "label": "練習6-2",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quiz06-03",
+        "label_header": "",
+        "label": "練習6-3",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": true,
+        "isRuntimeError": true,
+        "loadMessage": null
+      }
+    ]
+  },
+  {
+    "id": "chap07",
+    "label": "第7章 モジュール",
+    "children":
+    [
+      {
+        "id": "code07-01",
+        "label_header": "コード7-1",
+        "label": "1行日記を記録する",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code07-02",
+        "label_header": "コード7-2",
+        "label": "用が済んだらすぐに閉じる",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code07-03",
+        "label_header": "コード7-3",
+        "label": "mathモジュールを利用する",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code07-04",
+        "label_header": "コード7-4",
+        "label": "mathモジュールに別名を付けて利用する",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code07-05",
+        "label_header": "コード7-5",
+        "label": "特定の変数や関数だけを利用する",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code07-06",
+        "label_header": "コード7-6",
+        "label": "関数名が重複すると…",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code07-07",
+        "label_header": "コード7-7",
+        "label": "特定の変数や関数だけを別名を付けて利用する",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code07-08",
+        "label_header": "コード7-8",
+        "label": "ワイルドカードインポートを使ってモジュールを利用する",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code07-09",
+        "label_header": "コード7-9",
+        "label": "httpパッケージのclientモジュールを取り込む",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code07-10",
+        "label_header": "コード7-10",
+        "label": "httpパッケージのclientモジュールを取り込む（from利用）",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code07-11",
+        "label_header": "コード7-11",
+        "label": "httpパッケージのclientモジュールから関数だけを取り込む",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "code07-12",
+        "label_header": "コード7-12",
+        "label": "matplotlibでリストのデータを可視化する",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": true,
+        "isRuntimeError": false,
+        "loadMessage": "このコードはdokoPyで対応していない記述を含んでいます"
+      },
+      {
+        "id": "code07-13",
+        "label_header": "コード7-13",
+        "label": "requestsでPythonの公式サイトを取得する",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": "このコードはdokoPyで対応していないライブラリの利用が必要です"
+      },
+      {
+        "id": "code07-14",
+        "label_header": "コード7-14",
+        "label": "標準ライブラリを利用したWebページの取得",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": "このコードはdokoPyで実行できない処理を含んでいます"
+      },
+      {
+        "id": "quiz07-05",
+        "label_header": "",
+        "label": "練習7-5",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": "このコードはdokoPyで実行できない処理を含んでいます"
+      },
+      {
+        "id": "quizans07-04",
+        "label_header": "",
+        "label": "練習7-4の解答",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans07-05",
+        "label_header": "",
+        "label": "練習7-5の解答",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": "このコードはdokoPyで実行できない処理を含んでいます"
+      },
+      {
+        "id": "quizans07-06",
+        "label_header": "",
+        "label": "練習7-6の解答",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      }
+    ]
+  },
+  {
+    "id": "chap08",
+    "label": "第8章 まだまだ広がるPythonの世界",
+    "children":
+    [
+      {
+        "id": "code08-01",
+        "label_header": "コード8-1",
+        "label": "Python公式ブログの記事を調べる",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": "このコードはdokoPyで実行できない処理を含んでいます"
+      },
+      {
+        "id": "code08-02",
+        "label_header": "コード8-2",
+        "label": "SQLiteを使ったデータベース検索",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": "このコードはdokoPyで実行できない処理を含んでいます"
+      },
+      {
+        "id": "code08-03",
+        "label_header": "コード8-3",
+        "label": "tkinterを使ってボタンのあるウィンドウを作成する",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": "このコードはdokoPyで対応していないライブラリの利用が必要です"
+      },
+      {
+        "id": "code08-04",
+        "label_header": "コード8-4",
+        "label": "Flaskを使って現在時刻を表示する",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": "このコードはdokoPyで対応していないライブラリの利用が必要です"
+      },
+      {
+        "id": "code08-05",
+        "label_header": "コード8-5",
+        "label": "Raspberry Piから温湿度を取得して表示する",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": "このコードはdokoPyで対応していないライブラリの利用が必要です"
+      },
+      {
+        "id": "code08-06",
+        "label_header": "コード8-6",
+        "label": "カレールウの月別の支出額をグラフ化する",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": "このコードはdokoPyで対応していない記述を含んでいます"
+      }
+    ]
+  },
+  {
+    "id": "chapA",
+    "label": "付録A エラー解決・虎の巻",
+    "children":
+    [
+      {
+        "id": "codeA-01",
+        "label_header": "コードA-1",
+        "label": "2つの関数定義と呼び出し",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "codeA-02",
+        "label_header": "コードA-2",
+        "label": "ValueErrorが発生するプログラム",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "codeA-03",
+        "label_header": "コードA-3",
+        "label": "例外処理",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "codeA-04",
+        "label_header": "コードA-4",
+        "label": "ValueErrorとZeroDivisionErrorの両方に対応する",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "codeA-05",
+        "label_header": "コードA-5",
+        "label": "すべての実行時エラーに対応する",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      }
+    ]
+  },
+    {
+    "id": "chapB",
+    "label": "付録B パズルRPGの製作",
+    "children":
+    [
+      {
+        "id": "codeB-01",
+        "label_header": "コードB-1",
+        "label": "関数を使ったプログラム",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "codeB-02",
+        "label_header": "コードB-2",
+        "label": "最初のゲームプログラム",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "codeB-03",
+        "label_header": "コードB-3",
+        "label": "課題2の実装の概観",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": null
+      },
+      {
+        "id": "codeB-04",
+        "label_header": "コードB-4",
+        "label": "スライムの定義",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "codeB-05",
+        "label_header": "コードB-5",
+        "label": "print_monster_name関数の概観",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "codeB-06",
+        "label_header": "コードB-6",
+        "label": "属性に対応する記号をディクショナリで定義",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "codeB-07",
+        "label_header": "コードB-7",
+        "label": "print_monster_name関数に属性表示を追加",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "codeB-08",
+        "label_header": "コードB-8",
+        "label": "print_monster_name関数にカラー表示を追加",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "codeB-09",
+        "label_header": "コードB-9",
+        "label": "organize_party関数の概観",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "codeB-08",
+        "label_header": "コードB-8",
+        "label": "organize_party関数の概観",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      }
+    ]
+  }
+]
