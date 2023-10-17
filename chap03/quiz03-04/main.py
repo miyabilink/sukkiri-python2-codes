@@ -7,4 +7,4 @@ else:
     else:
         print('1年で一番寒い月ですね')
     print('年が明けてから')
-print('{}箇月が過ぎました'.format(month))
+print(f'{month}箇月が過ぎました')

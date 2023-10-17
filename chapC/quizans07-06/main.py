@@ -12,7 +12,7 @@ while is_continue == True:
     # 予想の入力
     prediction = list()
     for n in range(3):
-        data = int(input('{}桁目の予想入力(0~9)>>'.format(n + 1)))
+        data = int(input(f'{n + 1}桁目の予想入力(0~9)>>'))
         prediction.append(data)
     
     # 答え合わせ
@@ -28,12 +28,12 @@ while is_continue == True:
                     break
 
     # 結果発表
-    print('{}ヒット!{}ボール!'.format(hit, blow))
+    print(f'{hit}ヒット!{blow}ボール!')
     if hit == 3:
         print('正解です!')
         is_continue = False
     else:
         if int(input('続けますか? 1:続ける 2:終了 >>')) == 2:
-            print('正解は{}{}{}でした'.format(answer[0], answer[1], answer[2]))
+            print(f'正解は{answer[0]}{answer[1]}{answer[2]}でした')
             is_continue = False
 # 2行目を import random とした場合は、8行目の関数の呼び出しを random.randint とする。

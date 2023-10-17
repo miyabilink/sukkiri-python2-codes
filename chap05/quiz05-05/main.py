@@ -13,5 +13,4 @@ payorg = amount - pay * (people - 1)
 
 # 結果の表示
 print('*** 支払額 ***')
-print('1人あたり{}円({}人)、幹事は{}円です'
-      .format(pay, people - 1, payorg))
+print(f'1人あたり{pay}円({people}人)、幹事は{payorg}円です')

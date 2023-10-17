@@ -1,6 +1,6 @@
 student_list = ['浅木', '松田']
 for student in student_list:
-    print('{}さんの試験結果を入力してください'.format(student))
+    print(f'{student}さんの試験結果を入力してください')
     network = int(input('ネットワークの得点? >>'))
     database = int(input('データベースの得点? >>'))
     security = int(input('セキュリティの得点? >>'))
