@@ -2,8 +2,7 @@
   {
     "id": "chap00",
     "label": "第0章 ようこそPythonの世界へ",
-    "children":
-    [
+    "children": [
       {
         "id": "code00-01",
         "label_header": "コード0-1",
@@ -64,8 +63,7 @@
   {
     "id": "chap01",
     "label": "第1章 変数とデータ型",
-    "children":
-    [
+    "children": [
       {
         "id": "code01-01",
         "label_header": "コード1-1",
@@ -362,25 +360,13 @@
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
-      },
-      {
-        "id": "quizans01-03",
-        "label_header": "",
-        "label": "練習1-3の解答",
-        "sourceFiles": [
-          "ex01.py"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
       }
     ]
   },
   {
     "id": "chap02",
     "label": "第2章 コレクション",
-    "children":
-    [
+    "children": [
       {
         "id": "code02-01",
         "label_header": "コード2-1",
@@ -688,36 +674,13 @@
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
-      },
-      {
-        "id": "quizans02-02",
-        "label_header": "",
-        "label": "練習2-2の解答",
-        "sourceFiles": [
-          "main.py"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans02-03",
-        "label_header": "",
-        "label": "練習2-3の解答",
-        "sourceFiles": [
-          "main.py"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
       }
     ]
   },
   {
     "id": "chap03",
     "label": "第3章 条件分岐",
-    "children":
-    [
+    "children": [
       {
         "id": "code03-01",
         "label_header": "コード3-1",
@@ -838,25 +801,13 @@
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
-      },
-      {
-        "id": "quizans03-03",
-        "label_header": "",
-        "label": "練習3-3の解答",
-        "sourceFiles": [
-          "main.py"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
       }
     ]
   },
   {
     "id": "chap04",
     "label": "第4章 繰り返し",
-    "children":
-    [
+    "children": [
       {
         "id": "code04-01",
         "label_header": "コード4-1",
@@ -999,69 +950,13 @@
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
-      },
-      {
-        "id": "quizans04-02",
-        "label_header": "",
-        "label": "練習4-2の解答",
-        "sourceFiles": [
-          "main.py"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans04-03",
-        "label_header": "",
-        "label": "練習4-3の解答",
-        "sourceFiles": [
-          "main.py"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans04-04",
-        "label_header": "",
-        "label": "練習4-4の解答",
-        "sourceFiles": [
-          "main.py"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans04-05",
-        "label_header": "",
-        "label": "練習4-5の解答",
-        "sourceFiles": [
-          "main.py"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans04-06",
-        "label_header": "",
-        "label": "練習4-6の解答",
-        "sourceFiles": [
-          "main.py"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
       }
     ]
   },
   {
     "id": "chap05",
     "label": "第5章 関数",
-    "children":
-    [
+    "children": [
       {
         "id": "code05-01",
         "label_header": "コード5-1",
@@ -1284,7 +1179,7 @@
       },
       {
         "id": "code05-21",
-        "label_header": "コード5-31",
+        "label_header": "コード5-21",
         "label": "引数を使わないで変数nameの値を受け渡している",
         "sourceFiles": [
           "main.py"
@@ -1347,36 +1242,13 @@
         "isCompileError": false,
         "isRuntimeError": false,
         "loadMessage": null
-      },
-      {
-        "id": "quizans05-02",
-        "label_header": "",
-        "label": "練習5-2の解答",
-        "sourceFiles": [
-          "main.py"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans05-05",
-        "label_header": "",
-        "label": "練習5-5の解答",
-        "sourceFiles": [
-          "main.py"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
       }
     ]
   },
   {
     "id": "chap06",
     "label": "第6章 オブジェクト",
-    "children":
-    [
+    "children": [
       {
         "id": "code06-01",
         "label_header": "コード6-1",
@@ -1536,8 +1408,7 @@
   {
     "id": "chap07",
     "label": "第7章 モジュール",
-    "children":
-    [
+    "children": [
       {
         "id": "code07-01",
         "label_header": "コード7-1",
@@ -1702,47 +1573,13 @@
         "isCompileError": false,
         "isRuntimeError": true,
         "loadMessage": "このコードはdokoPyで実行できない処理を含んでいます"
-      },
-      {
-        "id": "quizans07-04",
-        "label_header": "",
-        "label": "練習7-4の解答",
-        "sourceFiles": [
-          "main.py"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
-      },
-      {
-        "id": "quizans07-05",
-        "label_header": "",
-        "label": "練習7-5の解答",
-        "sourceFiles": [
-          "main.py"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": true,
-        "loadMessage": "このコードはdokoPyで実行できない処理を含んでいます"
-      },
-      {
-        "id": "quizans07-06",
-        "label_header": "",
-        "label": "練習7-6の解答",
-        "sourceFiles": [
-          "main.py"
-        ],
-        "isCompileError": false,
-        "isRuntimeError": false,
-        "loadMessage": null
       }
     ]
   },
   {
     "id": "chap08",
     "label": "第8章 まだまだ広がるPythonの世界",
-    "children":
-    [
+    "children": [
       {
         "id": "code08-01",
         "label_header": "コード8-1",
@@ -1814,8 +1651,7 @@
   {
     "id": "chapA",
     "label": "付録A エラー解決・虎の巻",
-    "children":
-    [
+    "children": [
       {
         "id": "codeA-01",
         "label_header": "コードA-1",
@@ -1873,11 +1709,10 @@
       }
     ]
   },
-    {
+  {
     "id": "chapB",
     "label": "付録B パズルRPGの製作",
-    "children":
-    [
+    "children": [
       {
         "id": "codeB-01",
         "label_header": "コードB-1",
@@ -1979,8 +1814,168 @@
       },
       {
         "id": "codeB-08",
-        "label_header": "コードB-8",
+        "label_header": "コードB-10",
         "label": "organize_party関数の概観",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      }
+    ]
+  },
+  {
+    "id": "chapC",
+    "label": "付録C 練習問題の解答",
+    "children": [
+      {
+        "id": "quizans01-03",
+        "label_header": "",
+        "label": "練習1-3の解答",
+        "sourceFiles": [
+          "ex01.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans02-02",
+        "label_header": "",
+        "label": "練習2-2の解答",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans02-03",
+        "label_header": "",
+        "label": "練習2-3の解答",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans03-03",
+        "label_header": "",
+        "label": "練習3-3の解答",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans04-02",
+        "label_header": "",
+        "label": "練習4-2の解答",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans04-03",
+        "label_header": "",
+        "label": "練習4-3の解答",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans04-04",
+        "label_header": "",
+        "label": "練習4-4の解答",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans04-05",
+        "label_header": "",
+        "label": "練習4-5の解答",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans04-06",
+        "label_header": "",
+        "label": "練習4-6の解答",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans05-02",
+        "label_header": "",
+        "label": "練習5-2の解答",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans05-05",
+        "label_header": "",
+        "label": "練習5-5の解答",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans07-04",
+        "label_header": "",
+        "label": "練習7-4の解答",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": false,
+        "loadMessage": null
+      },
+      {
+        "id": "quizans07-05",
+        "label_header": "",
+        "label": "練習7-5の解答",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": "このコードはdokoPyで実行できない処理を含んでいます"
+      },
+      {
+        "id": "quizans07-06",
+        "label_header": "",
+        "label": "練習7-6の解答",
         "sourceFiles": [
           "main.py"
         ],

@@ -1,5 +1,5 @@
 def int_input(msg):
-    return int(input('{}を入力してください >>'.format(msg)))
+    return int(input(f'{msg}を入力してください >>'))
 def calc_payment(amount, people=2):
     dnum = amount / people # 総額を人数で割る(端数も保持)
     pay = dnum // 100 * 100 # 100円未満を切り捨てる
@@ -9,7 +9,7 @@ def calc_payment(amount, people=2):
     return [int(pay), int(payorg)]
 def show_payment(pay, payorg, people=2):
     print('*** 支払額 ***')
-    print('1人あたり{}円({}人)、幹事は{}円です'.format(pay, people-1, payorg))
+    print(f'1人あたり{pay}円({people-1}人)、幹事は{payorg}円です')
 
 # 計算データの入力
 amount = int_input('支払総額'); people = int_input('参加人数')

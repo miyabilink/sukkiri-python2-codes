@@ -36,3 +36,4 @@ while is_continue == True:
         if int(input('続けますか? 1:続ける 2:終了 >>')) == 2:
             print('正解は{}{}{}でした'.format(answer[0], answer[1], answer[2]))
             is_continue = False
+# 2行目を import random とした場合は、8行目の関数の呼び出しを random.randint とする。

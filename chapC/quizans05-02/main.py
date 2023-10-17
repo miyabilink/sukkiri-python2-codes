@@ -3,6 +3,6 @@ def is_leapyear(y):
 
 current_year = int(input('現在の西暦を入力してください >>'))
 if is_leapyear(current_year):
-    print('西暦{}年は、うるう年です'.format(current_year))
+    print(f'西暦{current_year}年は、うるう年です')
 else:
-    print('西暦{}年は、うるう年ではありません'.format(current_year))
+    print(f'西暦{current_year}年は、うるう年ではありません')

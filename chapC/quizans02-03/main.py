@@ -5,3 +5,4 @@ common = player1 & player2
 total = player1 | player2
 compatibility_rate = len(common) / len(total) * 100
 print(f'相性度は{compatibility_rate}パーセントでした')
+# 1行目と2行目でセットに格納した趣味は一例。
