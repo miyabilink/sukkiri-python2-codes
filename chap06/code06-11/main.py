@@ -1,3 +1,5 @@
+print('identityの変化を比較')
+
 names = list() # リストの場合
 print(f'list（変更前）: {id(names)}')
 names.append('松田')
