@@ -10,7 +10,7 @@ if okane_aruka == 'y':
     elif nomitai_kibunka == 'y':
         print('焼き鳥はいかがですか')
     else:
-        print('パスタはいかがですか')
+        print('パスタはいかがですか')
     yashoku_iruka = input('夜食は必要ですか? >>')
     if yashoku_iruka == 'y':
         print('コンビニのチキンはいかがですか')
