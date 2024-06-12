@@ -1399,8 +1399,8 @@
         "sourceFiles": [
           "main.py"
         ],
-        "isCompileError": true,
-        "isRuntimeError": true,
+        "isCompileError": false,
+        "isRuntimeError": false,
         "loadMessage": null
       }
     ]
