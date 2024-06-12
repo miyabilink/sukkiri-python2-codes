@@ -1,4 +1,4 @@
-# スッキリわかるPython入門 初版　書籍掲載コード
+# スッキリわかるPython入門 第2版　書籍掲載コード
 
 Python入門書籍『[スッキリわかるPython入門 第2版](https://sukkiri.jp/books/sukkiri_python2)』（インプレス, 2023）の誌面掲載プログラムリスト集です。[LICENSE.txt](https://github.com/miyabilink/sukkiri-python2-codes/raw/main/LICENSE.txt) の条件に基づきご利用ください。  
 
