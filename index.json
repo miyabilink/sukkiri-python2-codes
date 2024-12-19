@@ -1637,7 +1637,18 @@
       },
       {
         "id": "code08-06",
-        "label_header": "コード8-6",
+        "label_header": "コード8-7",
+        "label": "APIによるチャットボットの利用",
+        "sourceFiles": [
+          "main.py"
+        ],
+        "isCompileError": false,
+        "isRuntimeError": true,
+        "loadMessage": "このコードはdokoPyで対応していない記述を含んでいます"
+      },
+      {
+        "id": "code08-07",
+        "label_header": "コード8-7",
         "label": "カレールウの月別の支出額をグラフ化する",
         "sourceFiles": [
           "main.py"
