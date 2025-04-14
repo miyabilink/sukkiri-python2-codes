@@ -1637,8 +1637,8 @@
       },
       {
         "id": "code08-06",
-        "label_header": "コード8-7",
-        "label": "APIによるチャットボットの利用",
+        "label_header": "コード8-6",
+        "label": "チャットボット（ChatGPT）を利用する",
         "sourceFiles": [
           "main.py"
         ],
